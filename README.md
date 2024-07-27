@@ -23,28 +23,28 @@ This repository includes machine learning models and projects that I developed d
 - **Description:** Created a machine learning model to predict the genre of a movie based on its plot summary or other textual information.
 - **Techniques Used:** TF-IDF
 - **Classifiers:** Naive Bayes, Logistic Regression
-- **Directory:** `Movie Genre Classification`
+- **Directory:** [`TASK-1`](https://github.com/Mohamedhasanfaris/CODSOFT/tree/main/Task-1)
 - **Dataset:** [Movie Genre Dataset](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
 
 ### Task 2: Fraudulent Credit Card Transaction Detection
 
 - **Description:** Built a model to detect fraudulent credit card transactions using a dataset containing transaction information.
 - **Techniques Used:** Random Forests Model
-- **Directory:** `Credit Card Fraud Detection`
+- **Directory:** [`TASK-2`](https://github.com/Mohamedhasanfaris/CODSOFT/tree/main/Task-2)
 - **Dataset:** [Credit Card Fraud Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 ### Task 3: Customer Churn Prediction
 
 - **Description:** Developed a model to predict customer churn for a subscription-based service or business using historical customer data, including usage behavior and demographics.
 - **Techniques Used:** Gradient Boosting Classifier
-- **Directory:** `Customer Churn Prediction`
+- **Directory:** [`Task-3`](https://github.com/Mohamedhasanfaris/CODSOFT/tree/main/Task-3)
 - **Dataset:** [Customer Churn Dataset](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
 
 ### Task 4: SMS Spam Classification
 
 - **Description:** Built an AI model to classify SMS messages as spam or legitimate using techniques like TF-IDF with the Naive Bayes classifier.
 - **Techniques Used:**  Logistic Regression
-- **Directory:** `Spam SMS Detection`
+- **Directory:** [`Task-4`](https://github.com/Mohamedhasanfaris/CODSOFT/tree/main/Task-4)
 - **Dataset:** [SMS Spam Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 ## Contact
