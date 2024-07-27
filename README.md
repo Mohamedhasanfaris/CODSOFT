@@ -10,7 +10,8 @@ Welcome to my GitHub repository showcasing the projects I have worked on during 
   - [Task 2: Fraudulent Credit Card Transaction Detection](#task-2-fraudulent-credit-card-transaction-detection)
   - [Task 3: Customer Churn Prediction](#task-3-customer-churn-prediction)
   - [Task 4: SMS Spam Classification](#task-4-sms-spam-classification)
-
+- [Contact](#contact)
+  
 ## Introduction
 
 This repository includes machine learning models and projects that I developed during my internship at CodSoft. Each project is organized in its own directory with relevant code.
@@ -51,7 +52,7 @@ This repository includes machine learning models and projects that I developed d
 
 If you have any questions or feedback, feel free to reach out to me:
 
-- **LinkedIn:** [Hanlala Ibrahim](https://www.linkedin.com/in/mohamed-hasan-faris/)
-- **Email:** [mohamedhasanfaris12gmail.com](mailto:mohamedhasanfaris12gmail.com)
+- **LinkedIn:** [Mohamed Hasan Faris](https://www.linkedin.com/in/mohamed-hasan-faris/)
+- **Email:** [Mohamed Hasan Faris](mailto:mohamedhasanfaris1@gmail.com)
 
 Thank you for visiting my repository!
