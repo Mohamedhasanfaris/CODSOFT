@@ -24,35 +24,32 @@ This repository includes machine learning models and projects that I developed d
 - **Techniques Used:** TF-IDF
 - **Classifiers:** Naive Bayes, Logistic Regression
 - **Directory:** `Movie Genre Classification`
-- **Dataset:** Movie Genre Dataset
+- **Dataset:** [Movie Genre Dataset](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
 
 ### Task 2: Fraudulent Credit Card Transaction Detection
 
 - **Description:** Built a model to detect fraudulent credit card transactions using a dataset containing transaction information.
-- **Techniques Used:** Decision Trees
+- **Techniques Used:** Random Forests Model
 - **Directory:** `Credit Card Fraud Detection`
-- **Dataset:** Credit Card Fraud Dataset
+- **Dataset:** [Credit Card Fraud Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 ### Task 3: Customer Churn Prediction
 
 - **Description:** Developed a model to predict customer churn for a subscription-based service or business using historical customer data, including usage behavior and demographics.
-- **Techniques Used:** Gradient Boosting
+- **Techniques Used:** Gradient Boosting Classifier
 - **Directory:** `Customer Churn Prediction`
-- **Dataset:** Customer Churn Dataset
+- **Dataset:** [Customer Churn Dataset](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
 
 ### Task 4: SMS Spam Classification
 
 - **Description:** Built an AI model to classify SMS messages as spam or legitimate using techniques like TF-IDF with the Naive Bayes classifier.
-- **Techniques Used:** TF-IDF
-- **Classifiers:** Naive Bayes
+- **Techniques Used:**  Logistic Regression
 - **Directory:** `Spam SMS Detection`
-- **Dataset:** SMS Spam Dataset
+- **Dataset:** [SMS Spam Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 ## Contact
 
 If you have any questions or feedback, feel free to reach out to me:
 
-- **LinkedIn:** [Mohamed Hasan Faris](https://www.linkedin.com/in/mohamed-hasan-faris/)
-- **Email:** [Mohamed Hasan Faris](mailto:mohamedhasanfaris1@gmail.com)
-
-Thank you for visiting my repository!
+- [**LinkedIn:**](https://www.linkedin.com/in/mohamed-hasan-faris/)
+- [**Email:**](mailto:mohamedhasanfaris1@gmail.com)
