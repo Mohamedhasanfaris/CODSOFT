@@ -51,5 +51,5 @@ This repository includes machine learning models and projects that I developed d
 
 If you have any questions or feedback, feel free to reach out to me:
 
-- [**LinkedIn:**](https://www.linkedin.com/in/mohamed-hasan-faris/)
-- [**Email:**](mailto:mohamedhasanfaris1@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/mohamed-hasan-faris/)
+- [**Email**](mailto:mohamedhasanfaris1@gmail.com)
